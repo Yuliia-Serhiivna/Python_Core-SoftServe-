@@ -87,4 +87,4 @@
 # if user_word == reversed_word:
 #     print('Palindrom')
 # else:
-#     print('Not palindrom')ss
+#     print('Not palindrom')
